@@ -1,0 +1,33 @@
+{
+  "name": "vtx",
+  "version": "1.0.0",
+  "description": "Zero-setup backend infrastructure for browser games and client-side web applications.",
+  "author": "VTX",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vtxgames/vtx.git"
+  },
+  "homepage": "https://scripts.vtxgames.co.uk/",
+  "bugs": {
+    "url": "https://github.com/vtxgames/vtx/issues"
+  },
+  "keywords": [
+    "backend",
+    "leaderboard",
+    "storage",
+    "realtime",
+    "websocket",
+    "multiplayer",
+    "browser-games",
+    "analytics",
+    "sdk",
+    "javascript"
+  ],
+  "files": [
+    "README.md",
+    "DOCS.md",
+    "LICENSE"
+  ],
+  "private": true
+}

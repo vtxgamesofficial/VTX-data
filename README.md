@@ -7,6 +7,10 @@ VTX provides storage, leaderboards, player profiles, sessions, multiplayer rooms
 No account required.  
 No API key required.  
 No backend setup required.
+---
+# Founder
+
+The founder operates online under the alias 𝓩𝖍𝖓𝖖𝖗.
 
 ---
 
